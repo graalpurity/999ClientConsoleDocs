@@ -5,7 +5,7 @@
 
 # Commands
 _______________________
-Servers
+    Servers
 _______________________
 1. Classic(); -Starts Graal Classic
 2. Era(); -Starts Graal Era
@@ -14,6 +14,6 @@ _______________________
 5. Idle(); -Sets the client to Idle, goes back to the homepage
 
 _______________________
-Other
+    Other
 _______________________
 6. Bypass(); -clears cookies and refreshes page to bypass a normal ban (not ip ban)
