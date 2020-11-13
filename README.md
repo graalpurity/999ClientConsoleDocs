@@ -17,3 +17,4 @@ _______________________
     Other
 _______________________
 6. Bypass(); -clears cookies and refreshes page to bypass a normal ban (not ip ban)
+7. CheckVersion -Checks the client version
