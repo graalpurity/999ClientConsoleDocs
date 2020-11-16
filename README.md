@@ -17,4 +17,5 @@ _______________________
     Other
 _______________________
 6. Bypass(); -clears cookies and refreshes page to bypass a normal ban (not ip ban)
-7. CheckVersion -Checks the client version
+7. CheckVersion(); -Checks the client version
+8. RGB(); -Sets all the ui button colors to change colors like rgb
